@@ -1,0 +1,11 @@
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\bin\Debug\WindowsFormsApp-Hesap Makinesi 1.exe.config
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\bin\Debug\WindowsFormsApp-Hesap Makinesi 1.exe
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\bin\Debug\WindowsFormsApp-Hesap Makinesi 1.pdb
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\obj\Debug\WindowsFormsApp-Hesap Makinesi 1.csproj.AssemblyReference.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\obj\Debug\WindowsFormsApp-Hesap Makinesi 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\obj\Debug\WindowsFormsApp_Hesap_Makinesi_1.Form1.resources
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\obj\Debug\WindowsFormsApp_Hesap_Makinesi_1.Properties.Resources.resources
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\obj\Debug\WindowsFormsApp-Hesap Makinesi 1.csproj.GenerateResource.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\obj\Debug\WindowsFormsApp-Hesap Makinesi 1.csproj.CoreCompileInputs.cache
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\obj\Debug\WindowsFormsApp-Hesap Makinesi 1.exe
+C:\Users\sami efe\source\repos\WindowsFormsApp-Hesap Makinesi 1\WindowsFormsApp-Hesap Makinesi 1\obj\Debug\WindowsFormsApp-Hesap Makinesi 1.pdb
